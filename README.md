@@ -1,4 +1,4 @@
-<h2 align="left">Hello WORLD!,I'm Balamurugan, a B.E Student👋;</h2>
+<h2 align="left">Hello Friends!,I'm Balamurugan, a B.E Student👋;</h2>
 
 ###
 
