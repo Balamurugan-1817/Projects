@@ -57,4 +57,4 @@
 ###
 
 ###
-![snake gif](https://github.com/Balamurugan-1817/Projects/blob/output/github-snake-dark.svg)# Projects
+[![snake gif](https://github.com/Balamurugan-1817/projects/blob/output/github-contribution-grid-snake.svg)# Projects
